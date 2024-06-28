@@ -1,4 +1,4 @@
-# 2023-204--Autonom-Blue-2--Right
+# 2023-204-Autonom-Blue-2-Right
 # 2023-2024-Autonom-Blue2
 Pars Junior #25186 2023-2024 Center Stage Blue2 Autonom Code
 
@@ -18,8 +18,8 @@ The robot will move forward from its starting position using accurate angles and
 Turning
 As per task requirements, the robot will execute a 90-degree turn using predefined angle adjustments.
 
-Approaching the Left Edge and Object Placement
-The robot will approach the left edge of the field and delicately place the object. Subsequently, it will approach the backdrop and execute movements to ensure precise placement of the object.
+Approaching the Right Edge and Object Placement
+The robot will approach the right edge of the field and delicately place the object. Subsequently, it will approach the backdrop and execute movements to ensure precise placement of the object.
 
 Notes
 This autonomous routine is customized for the specific configuration and capabilities of Pars Junior #25186.
